@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "amsgrad",
+    "argmax",
+    "capturable",
+    "cmap",
+    "cuda",
+    "figsize",
+    "fontsize",
+    "imshow",
+    "isinstance",
+    "logits",
+    "mathbf",
+    "mathcal",
+    "mathrm",
+    "matplotlib",
+    "MNIST",
+    "numel",
+    "numpy",
+    "optim",
+    "preds",
+    "pyplot",
+    "relu",
+    "Softmax",
+    "torchvision"
+  ]
+}
