@@ -1,5 +1,6 @@
 {
   "cSpell.words": [
+    "accs",
     "amsgrad",
     "argmax",
     "capturable",
@@ -22,6 +23,9 @@
     "pyplot",
     "relu",
     "Softmax",
-    "torchvision"
+    "torchvision",
+    "xlabel",
+    "ylabel",
+    "ylim"
   ]
 }
